@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deluciivariietc00weicgoog_0009.png"; bbox 0 0 2670 5294; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 297 3894 1138 3966">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 297 3894 1138 3966">
+     <span class='ocr_line' id='line_1_1' title="bbox 297 3894 1138 3966; baseline 0 -19"><span class='ocrx_word' id='word_1_1' title='bbox 297 3894 429 3962; x_wconf 66' lang='lat' dir='ltr'><strong><em>orma,</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 451 3894 584 3966; x_wconf 71' lang='lat' dir='ltr'><strong><em>gadmckt</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 600 3897 628 3950; x_wconf 74' lang='lat' dir='ltr'><strong><em>t&#39;n</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 646 3897 693 3952; x_wconf 77' lang='lat' dir='ltr'><strong><em>der</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 709 3894 902 3952; x_wconf 61' lang='lat' dir='ltr'><strong><em>nemmem</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 920 3894 1138 3952; x_wconf 65' lang='lat' dir='ltr'><strong><em>Bucbdmkmu&#39;.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1340 5294">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1340 5294">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1340 5294; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1340 5294; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
